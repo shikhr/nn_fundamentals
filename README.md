@@ -12,3 +12,11 @@
 ### Word2Vec with Negative Sampling
 
 [[Word2Vec]](/Word2Vec_Negative_Sampling/word2vec-negativesampling.ipynb)
+
+
+### GPT
+
+[[Tokenizer]](/Gpt_Tokenizer/tokenizer.ipynb)
+
+[[NanoGPT]](/GPT_Scratch/NanoGPT.ipynb)
+
